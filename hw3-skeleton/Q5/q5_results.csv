@@ -1,22 +1,3 @@
-Parameter,Value
-GTID,gburdell3
-1_Mean Absolute Error,
-1_Root Mean Squared Error,
-1_Relative Absolute Error,
-1_Relative Squared Error,
-1_Coefficient of Determination,
-2_Mean Absolute Error,
-2_Root Mean Squared Error,
-2_Relative Absolute Error,
-2_Relative Squared Error,
-2_Coefficient of Determination,
-3_Root Mean Squared Error (RMSE) for 1st fold,
-3_Root Mean Squared Error (RMSE) for 2nd fold,
-3_Root Mean Squared Error (RMSE) for 3rd fold,
-3_Root Mean Squared Error (RMSE) for 4th fold,
-3_Root Mean Squared Error (RMSE) for 5th fold,
-3_Coefficient of Determination for 1st fold,
-3_Coefficient of Determination for 2nd fold,
-3_Coefficient of Determination for 3rd fold,
-3_Coefficient of Determination for 4th fold,
-3_Coefficient of Determination for 5th fold,
+version https://git-lfs.github.com/spec/v1
+oid sha256:88e67206f731922677d4ab1a2476d17d7b71db2389f329e4058bfdc58e96d562
+size 783
